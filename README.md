@@ -46,34 +46,7 @@ To run the application locally, follow these steps:
 
 5. Open your browser and visit `http://localhost:3000` to see the application.
 
-## Folder Structure
-
-The project's folder structure is as follows:
-
-```bash
-- src
-  -app
-    - favicon.ico
-    - layout.tsx
-    - page.tsx
-  - components
-    - ui
-    - AddTask.tsx
-    - EditTask.tsx
-    - Task.tsx
-    - TaskFilter.tsx
-    - TaskList.tsx
-    ..
-  - lib
-    - utils.ts
-  - stores
-    - StroreProvider.tsx
-    - TaskStore.ts
-  - styles
-    - globals.css
-```
-
-Explanation:
+## Structure:
 
 - `src`: The root directory of the project's source code.
   - `app`: This directory contains the core components and configurations for the Next.js application.
