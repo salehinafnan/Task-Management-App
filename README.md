@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd task-management-app
+   cd Task-Management-App
    ```
 
 3. Install the dependencies:
