@@ -16,7 +16,11 @@ This is a task management application built with Next.js, TypeScript, Tailwind C
 - Tailwind CSS: A utility-first CSS framework for styling and layout.
 - Mobx State Tree (MST): A state management library for predictable state management.
 
-## Getting Started
+## Persistence
+
+The application persists task data using local storage. Tasks are stored under the key "taskStore" as a JSON string.
+
+## How to run the project
 
 To run the application locally, follow these steps:
 
@@ -45,7 +49,3 @@ To run the application locally, follow these steps:
    ```
 
 5. Open your browser and visit `http://localhost:3000` to see the application.
-
-## Persistence
-
-The application persists task data using local storage. Tasks are stored under the key "taskStore" as a JSON string.
